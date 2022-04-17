@@ -2,7 +2,7 @@
   <img src="./img/rplace_title.png">
 </p>
 <h2 align="center">r/Place</h2>
-<h4 align="center">A funny game for your server/networck</h4>
+<h4 align="center">A funny game for your server/network</h4>
 
 <br>
 <hr>
